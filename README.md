@@ -1,5 +1,5 @@
 # UFC-Winning-Variables
-Analyze and model ufc data to see how important some variables are to winning a ufc fight.
+Analyze and model ufc data to see how important some pre-determined physical attributes are to winning a ufc fight.
 
 ### <ins> Skills Used </ins>
 * Pandas data manipulation
