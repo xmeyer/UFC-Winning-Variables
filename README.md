@@ -10,5 +10,5 @@ Analyze and model ufc data to see how important some pre-determined physical att
 * `Pandas` data manipulation
 * `Numpy` random seed
 * `Scikit-Learn` train test split, Simple Imputer, One Hot Encoder, Column Transform, pipeline, feature scaler
-* `Scikit-Learn` models, hyperparameter tuning, scoring, metrics comparison (visual w/ `matplotlib`)
+* `Scikit-Learn` models, hyperparameter tuning, scoring, metrics comparison (visual w/ `Matplotlib`)
 * `Pickle` save and load model
